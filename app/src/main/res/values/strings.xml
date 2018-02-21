@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GuessingGame</string>
+
+    <string name="sound_settings">Sound Setting</string>
+    <string name="sound_choices_description">Turn sounds OFF</string>
+    <string name="mainImageView">Image View on the main activity</string>
+
+    <string name="image_description">Image of the current bird in the game</string>
+
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="toolbar">toolbar</string>
+
+    <string name="button_answer1">Button Answer 1</string>
+    <string name="button_answer2">Button Answer 3</string>
+    <string name="button_answer3">Button Answer 4</string>
+    <string name="button_answer4">Button Answer 5</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="playGame">Play</string>
+</resources>
